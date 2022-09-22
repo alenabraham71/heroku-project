@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 23 23"
+	 style="enable-background:new 0 0 23 23;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#876AAA;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#876AAA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#876AAA;}
+	.st3{opacity:0.3357;fill:#876AAA;enable-background:new    ;}
+	.st4{fill:none;stroke:#876AAA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:none;stroke:#876AAA;stroke-linecap:round;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#876AAA;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#876AAA;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="heroku-data-postgres" transform="translate(-7.000000, -10.000000)" sketch:type="MSLayerGroup">
+		<g>
+			<path class="st2" d="M17.8,12.6c-3.8-0.1-9.7,0.1-9.7,3.6c0,3.1,4.2,8,9.7,7.3L17.8,12.6C17.8,12.6,17.8,12.6,17.8,12.6z"/>
+		</g>
+		<g id="Stroke-4">
+			<path class="st2" d="M18.6,30.5c-0.7,0-1.3-0.3-1.8-0.8c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.4,0c0.2,0.2,0.5,0.2,0.6,0.1
+				c0.1,0,0.3-0.2,0.3-0.5l0-15.3c3.8-0.1,9.7,0.1,9.7,3.6c0,2.7-3.2,6.8-7.7,7.3l0,4.3c0,0.9-0.4,1.7-1.1,2.2
+				C19.6,30.3,19.1,30.5,18.6,30.5z M21.2,14.6v6.9c3.3-0.5,5.7-3.6,5.7-5.3C26.8,15.5,25.3,14.7,21.2,14.6z"/>
+		</g>
+	</g>
+</g>
+</svg>
